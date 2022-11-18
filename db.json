@@ -1,0 +1,62 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Porter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "cost": 300
+    },
+    {
+      "id": 2,
+      "title": "Harry Porter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "cost": 300
+    },
+    {
+      "id": 3,
+      "title": "Harry Porter and the Prisoner of Azkaban",
+      "author": "J.K. Rowling",
+      "cost": 300
+    },
+    {
+      "id": 4,
+      "title": "Harry Porter and the Goblet of Fire",
+      "author": "J.K. Rowling",
+      "cost": 300
+    },
+    {
+      "id": 5,
+      "title": "Harry Porter and the Order of the Pheonix",
+      "author": "J.K. Rowling",
+      "cost": 300
+    },
+    {
+      "id": 6,
+      "title": "Harry Porter and the Half-Blood Prince",
+      "author": "J.K. Rowling",
+      "cost": 300
+    },
+    {
+      "id": 7,
+      "title": "Harry Porter and the Deathly Hallows: Part-1",
+      "author": "J.K. Rowling",
+      "cost": 300
+    },
+    {
+      "id": 8,
+      "title": "Harry Porter and the Deathly Hallows: Part-2",
+      "author": "J.K. Rowling",
+      "cost": 300
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
